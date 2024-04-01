@@ -14,7 +14,7 @@
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitor.mr/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-miranda-54a91a252/)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Devhectorr)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devhektor)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devmirandao&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
 
